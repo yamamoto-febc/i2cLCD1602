@@ -1,0 +1,14 @@
+{
+  "I2C_LCD1602.BacklightOff|block": "バックライトをOFFにする",
+  "I2C_LCD1602.BacklightOn|block": "バックライトをONにする",
+  "I2C_LCD1602.LcdInit|block": "LCDの初期化(Address %addr)",
+  "I2C_LCD1602.ShowNumber|block": "数字を表示 %n|at x %x|y %y",
+  "I2C_LCD1602.ShowString|block": "文字列を表示 %s|at x %x|y %y",
+  "I2C_LCD1602.clear|block": "LCDのクリア",
+  "I2C_LCD1602.off|block": "LCDをOFFにする",
+  "I2C_LCD1602.on|block": "LCDをONにする",
+  "I2C_LCD1602.shl|block": "左へシフト",
+  "I2C_LCD1602.shr|block": "右へシフト",
+  "I2C_LCD1602|block": "I2C_LCD1602",
+  "{id:category}I2C_LCD1602": "I2C_LCD1602"
+}

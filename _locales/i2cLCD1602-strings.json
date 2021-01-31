@@ -1,0 +1,14 @@
+{
+  "I2C_LCD1602.BacklightOff|block": "turn off backlight",
+  "I2C_LCD1602.BacklightOn|block": "turn on backlight",
+  "I2C_LCD1602.LcdInit|block": "LCD initialize with Address %addr",
+  "I2C_LCD1602.ShowNumber|block": "show number %n|at x %x|y %y",
+  "I2C_LCD1602.ShowString|block": "show string %s|at x %x|y %y",
+  "I2C_LCD1602.clear|block": "clear LCD",
+  "I2C_LCD1602.off|block": "turn off LCD",
+  "I2C_LCD1602.on|block": "turn on LCD",
+  "I2C_LCD1602.shl|block": "Shift Left",
+  "I2C_LCD1602.shr|block": "Shift Right",
+  "I2C_LCD1602|block": "I2C_LCD1602",
+  "{id:category}I2C_LCD1602": "I2C_LCD1602"
+}

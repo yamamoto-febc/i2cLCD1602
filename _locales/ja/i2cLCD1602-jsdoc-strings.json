@@ -1,0 +1,20 @@
+{
+  "I2C_LCD1602": "makecode I2C LCD1602 package for microbit.\nFrom microbit/micropython Chinese community.\nhttp://www.micropython.org.cn\n\nCustom blocks",
+  "I2C_LCD1602.BacklightOff": "turn off LCD backlight",
+  "I2C_LCD1602.BacklightOn": "turn on LCD backlight",
+  "I2C_LCD1602.LcdInit": "initial LCD, set I2C address. Address is 39/63 for PCF8574/PCF8574A",
+  "I2C_LCD1602.LcdInit|param|Addr": "is i2c address for LCD, eg: 0, 39, 63. 0 is auto find address",
+  "I2C_LCD1602.ShowNumber": "show a number in LCD at given position",
+  "I2C_LCD1602.ShowNumber|param|n": "is number will be show, eg: 10, 100, 200",
+  "I2C_LCD1602.ShowNumber|param|x": "is LCD column position, eg: 0",
+  "I2C_LCD1602.ShowNumber|param|y": "is LCD row position, eg: 0",
+  "I2C_LCD1602.ShowString": "show a string in LCD at given position",
+  "I2C_LCD1602.ShowString|param|s": "is string will be show, eg: \"Hello\"",
+  "I2C_LCD1602.ShowString|param|x": "is LCD column position, [0 - 15], eg: 0",
+  "I2C_LCD1602.ShowString|param|y": "is LCD row position, [0 - 1], eg: 0",
+  "I2C_LCD1602.clear": "clear all display content",
+  "I2C_LCD1602.off": "turn off LCD",
+  "I2C_LCD1602.on": "turn on LCD",
+  "I2C_LCD1602.shl": "shift left",
+  "I2C_LCD1602.shr": "shift right"
+}
